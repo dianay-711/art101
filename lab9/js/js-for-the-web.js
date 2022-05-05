@@ -15,8 +15,7 @@ new2El = document.createElement("h");
  // change html attribute of new2El to say something else
 new2El.innerHTML = "What's up with it";
  // append both new elements to output <div>
-outputEl.appendChild(new1El);
-outputEl.appendChild(new2El);
+outputEl.appendChild(new1El,new2El);
 
  // change the font size
 new1El.style.fontSize = "20pt";
