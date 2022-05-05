@@ -11,7 +11,7 @@ var new1El = document.createElement("p");
  // change html attribute to say something new
 new1El.innerHTML = "Heyo";
  // create another new element named new2El
-new2El = document.createElement("h");
+var new2El = document.createElement("h");
  // change html attribute of new2El to say something else
 new2El.innerHTML = "What's up with it";
  // append both new elements to output <div>
