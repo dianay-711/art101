@@ -1,5 +1,5 @@
 // Summary: Lab 4 Pseudocoding - Diana Yusupova
-// Description: This file contains pseudocode for our chosen computer task (real-time
+// Description: This file contains pseudocode for my chosen computer task (real-time
 // play through of a game of Connect 4)
 // @link   https://canvas.ucsc.edu/courses/52418/assignments/330575
 // @file   pseudocoding.js - The file you are in right now. Contains the pseudocode

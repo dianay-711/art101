@@ -1,1 +1,52 @@
+h1 {
+  color: #618B4A;
+  font-family: "Times New Roman";
+  font-size: 250%;
+  margin-left: 20px
+}
 
+h2, h3 {
+
+  color: #EDFF71;
+  font-family: "Times New Roman";
+  font-size: 200%;
+  margin-left: 20px
+}
+
+.output {
+  color: #E6ECFF;
+  font-family: "Times New Roman";
+  font-size: 105%;
+  text-indent: 30px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 700px;
+  margin-left: 100px;
+}
+
+#content {
+  background-color: #a7c6da;
+  width: 2065px;
+  height: 2000px;
+  padding: 10px;
+  margin: 10px;
+  border: double 20px #59656F;
+  font-size: 20px;
+}
+
+p {
+  color: #000000;
+  font-family: "courier new";
+  font-size: 105%;
+  text-indent: 30px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: 700px;
+}
+
+img {
+  margin-left: 20px
+}
+eefcce
