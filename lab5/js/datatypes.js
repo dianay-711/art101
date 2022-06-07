@@ -12,9 +12,9 @@
 
 // Define Variables
 var make = "BMW";
-var model = "e46";
+var model = "330 ci";
 var color = "grey";
-var year = 2005;
+var year = "2005";
 var currentYear = 2022;
 
 // Calculate the age of my car
